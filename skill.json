@@ -1,0 +1,20 @@
+{
+  "name": "genpark-swarm-majority-voting-verifier-skill",
+  "version": "1.0.0",
+  "description": "Multi-agent ensemble voting with Borda count, Condorcet analysis, and confidence-weighted majority resolution",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "majority-voting",
+    "swarm-verifier",
+    "self-consistency",
+    "ensemble-ai",
+    "social-choice",
+    "python-standard-library",
+    "agent-skills",
+    "multi-agent",
+    "consensus",
+    "decision-making"
+  ]
+}
