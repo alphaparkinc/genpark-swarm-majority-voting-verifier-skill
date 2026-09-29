@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-swarm-majority-voting-verifier-skill"
+version = "1.0.0"
+description = "Multi-agent ensemble voting with Borda count, Condorcet analysis, and confidence-weighted majority resolution"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
